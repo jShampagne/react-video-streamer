@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Unexpected Behavior",
+      "description": "I edited this!",
+      "userId": "118219568877301610754",
+      "id": 5
+    },
+    {
+      "title": "Me Streaming ",
+      "description": "I like ice cream",
+      "userId": "118219568877301610754",
+      "id": 7
+    },
+    {
+      "title": "Hello World ",
+      "description": "Let's go to the moon!",
+      "userId": "118219568877301610754",
+      "id": 8
+    }
+  ]
+}
